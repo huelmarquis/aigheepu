@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohveiqu.muypapeer.com/sitemap.xml
